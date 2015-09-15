@@ -1,4 +1,4 @@
+guestentriesstripe/composer.lock
 guestentriesstripe/vendor/*
-!guestentriesstripe/vendor/composer/*
+!guestentriesstripe/vendor/composer*
 !guestentriesstripe/vendor/autoload.php
-!guestentriesstripe/composer.lock
